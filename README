@@ -1,0 +1,34 @@
+Theme:
+2012
+
+
+Description: 
+
+This project we implemented a imagined solar system with only moon earth sun and saturn. We used bump mapping for earth and moon, also we use the particle system to simulate the flame of the sun. 
+We also drew the scene where the comet hits the earth. The halo of explosion and the fragamentation also simulated with the particle system with diferent formular and texture mapping. 
+We have also set different camera position in order to have the best view, besides that we can also move the camera along the bezier curve. 
+
+
+Bugs: 
+No siginificant bug founds, I left the partile of the sun without billboarding.
+
+ctrl keys:
+Esc: exit the program 
+1: angle 1 center is sun 
+2: angle 2 sun
+a: move camera to the left
+d: move camera to the right
+r: let the camera move along the random track
+l: show the orbits
+n: clean the orbits
+t: reset everything to the begining stage
+c: secret weapon
+f: follow
+
+
+Feature Implemented:
+Bezier curve
+Bump mapping
+Particle system
+Motion Blur
+Texture mapping
