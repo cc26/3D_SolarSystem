@@ -1,0 +1,19 @@
+<RCC>
+    <qresource prefix="/textures">
+        <file>earthmap1k.jpg</file>
+        <file>moonmap2k.jpg</file>
+        <file>earthbump1k_enhance.png</file>
+        <file>Spacebg_1024.jpg</file>
+        <file>stranight1_1024.jpg</file>
+        <file>stranight4_1024.jpg</file>
+        <file>earthcloudmap.jpg</file>
+        <file>particle1.bmp</file>
+        <file>particle2.bmp</file>
+        <file>particle3.jpg</file>
+        <file>sun.png</file>
+        <file>moonmap2k_enhance2.jpg</file>
+        <file>mercurybump_normal.jpg</file>
+        <file>mercurymap.jpg</file>
+        <file>saturnmap.jpg</file>
+    </qresource>
+</RCC>
